@@ -1,7 +1,8 @@
 # BG-CHANGER
 
 Overview
-This project is a simple and interactive background changer website built using ReactJS and styled with Tailwind CSS. The primary purpose of this application is to allow users to dynamically change the background color of the webpage with a click of a button.
+
+- This project is a simple and interactive background changer website built using ReactJS and styled with Tailwind CSS. The primary purpose of this application is to allow users to dynamically change the background color of the webpage with a click of a button.
 
 Features
 
